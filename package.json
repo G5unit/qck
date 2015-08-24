@@ -1,0 +1,16 @@
+{
+  "name": "qck",
+  "version": "0.1.0",
+  "description": "HTTP client & server test tool",
+  "main": "qck.js",
+  "dependencies": {
+    "async": "^0.9.0",
+    "random-js": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "G5unit",
+  "license": "GPLv3"
+}
